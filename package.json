@@ -1,0 +1,14 @@
+{
+  "name": "js_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "containsCommonItem.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
